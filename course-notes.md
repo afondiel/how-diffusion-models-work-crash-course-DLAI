@@ -41,13 +41,14 @@ Instructor: [Sharon Zhou - @LAMINI_AI](https://x.com/realsharonzhou)
 
 ## References
 
-- [course link](https://learn.deeplearning.ai/courses/diffusion-models/lesson/1/introduction)
+- [Course link - DeepLearning.AI](https://learn.deeplearning.ai/courses/diffusion-models/lesson/1/introduction)
+- [What are Diffusion Models? (@lilianweng) - Best Explanation YET!!! ](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
 
 Additional resources:
-- [Vision Models - Notes](https://github.com/afondiel/computer-science-notebook/blob/master/computer-vision-notes/vision-models)
-    - [Diffusion Models - Notes](https://github.com/afondiel/computer-science-notebook/blob/master/computer-vision-notes/vision-models/diffusion-models-notes.md)
-- [Video Models - Notes](https://github.com/afondiel/computer-science-notebook/blob/master/computer-vision-notes/video-models/)
-- [Generative AI - Notes](https://github.com/afondiel/computer-science-notebook/blob/master/ai/generative-ai-notes/GenAI-notes.md)
+- [Vision Models - Notes (@afondiel)](https://github.com/afondiel/computer-science-notebook/blob/master/computer-vision-notes/vision-models)
+    - [Diffusion Models - Notes (@afondiel)](https://github.com/afondiel/computer-science-notebook/blob/master/computer-vision-notes/vision-models/diffusion-models-notes.md)
+- [Video Models - Notes (@afondiel)](https://github.com/afondiel/computer-science-notebook/blob/master/computer-vision-notes/video-models/)
+- [Generative AI - Notes (@afondiel)](https://github.com/afondiel/computer-science-notebook/blob/master/ai/generative-ai-notes/GenAI-notes.md)
 - [How Stable Diffusion Works (AI Image Generation) - Gonkee (Must Watch)](https://www.youtube.com/watch?v=sFztPP9qPRc)
 
 Notable Papers & Works:
