@@ -21,14 +21,14 @@ Instructor: [Sharon Zhou - @LAMINI_AI](https://x.com/realsharonzhou)
 
 |Chapters|Notebooks|Demos|
 |--|--|--|
-|[Introduction](./docs/slides/00_intro/)|-|-|
-|[Intuition](./docs/slides/01_intuition/)|-|-|
-|[Sampling](./docs/slides/02_sampling/)|[L1_Sampling.ipynb](./lab/notebooks/L1_Sampling/L1_Sampling.ipynb)|-|
-|[Neural Network](./docs/slides/03_neuralnet/)|-|-|
-|[Training](./docs/slides/04_training/)|[L2_Training.ipynb](./lab/notebooks/L2_Training/L2_Training.ipynb)|-|
-|[Controlling](./docs/slides/05_controlling/)|-|-|
-|[Speeding Up](./docs/slides/06_speeding-up/)|-|-|
-|[Summary](./docs/slides/07_summary/)|-|-|
+|[Introduction](./lab/chapters/slides/00_intro/)|-|-|
+|[Intuition](./lab/chapters/slides/01_intuition/)|-|-|
+|[Sampling](./lab/chapters/slides/02_sampling/)|[L1_Sampling.ipynb](./lab/notebooks/L1_Sampling/L1_Sampling.ipynb)|-|
+|[Neural Network](./lab/chapters/slides/03_neuralnet/)|-|-|
+|[Training](./lab/chapters/slides/04_training/)|[L2_Training.ipynb](./lab/notebooks/L2_Training/L2_Training.ipynb)|-|
+|[Controlling](./lab/chapters/slides/05_controlling/)|-|-|
+|[Speeding Up](./lab/chapters/slides/06_speeding-up/)|-|-|
+|[Summary](./lab/chapters/slides/07_summary/)|-|-|
 
 ## References
 
